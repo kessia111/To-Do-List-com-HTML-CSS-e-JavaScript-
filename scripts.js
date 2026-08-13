@@ -1,8 +1,3 @@
-/*
-Lista de Tarefas
-[] saber quando o botão foi clicado
-[] pegar texto dentro do Input
-[] colocar esse texto na tela
 
 */
 
